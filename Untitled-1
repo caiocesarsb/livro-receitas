@@ -1,0 +1,16 @@
+// Comandos Git
+
+git init = Iniciar o repositorio no git
+
+git add = Mover ou adicionar arquivos no repositorio
+
+git commit = publicar 
+
+ls - a = listar exibindo os arquivos ocultos
+
+git config --global user.email "caiocesarsb@gmail.com" = isso seta de maneira global o usuario criados dos commit nesse computador no git
+
+git config --global user.name caiocesarsb = criando o username da conta git setada no email
+
+git status = ajuda a monitorar o status dos arquivos do repositorio
+
